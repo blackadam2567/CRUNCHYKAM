@@ -1,0 +1,31 @@
+<html><head><style>
+        body {
+            background-color: white;
+		text-align: center;
+        }
+    </style></head>
+<body><img src="full.jpg" alt="full" width="500" height="450">
+<p><br><b>Titre alternatif :</b> Hagaren / FMAB / Fullmetal Alchemist (2009) / FMA</p>
+<p><br><b>Titre original :</b> Hagane no Renkinjutsushi (2009) / 鋼の錬金術師 BROTHERHOOD</p>
+<p><br><b>Pays :</b>   Japon</p>
+<p><br><b>Format : </b> Série TV</p>
+<p><br><b>Origine : </b> Manga</p>
+<p><br><b>Episodes : </b>64 x 24 min</p>
+<p><br><b>Saison :</b> Printemps 2009</p>
+<p><br><b>Diffusion terminée :</b> du 05/04/2009 au 04/07/2010</p>
+<p><br><b>Genres :</b> Action - Aventure - Comédie - Drame - Fantasy - Psychologique - Surnaturel - Thriller</p>
+<p><br><b>Thèmes :</b> Alchimie - Militaire - Steampunk</p>
+<p><br><b>Pour public averti :</b> Oui (violence)</p>
+<p><br><b>Studio d'animation :</b> Bones</p>
+<p><br><b>Licencié au Cameroun :</b> Oui</p>
+<br><b>Synopsis</b>
+<br><p style="text-align: justify;">Cette version est une seconde adaptation du manga de&nbsp;Hiromu Arakawa. Elle est bien plus fidèle au manga que la précédente version, et le design change quelque peu.
+Edward Elric&nbsp;et son frère&nbsp;Alphonse Elric&nbsp;sont de jeunes&nbsp;Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, 
+et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela,&nbsp;Edward&nbsp;est devenu&nbsp;Alchimiste d'État&nbsp;: le&nbsp;Fullmetal Alchemist. Mais au cours de leurs recherches, 
+bien des épreuves attendent les deux frères et des êtres étranges : les&nbsp;Homonculus, les poursuivent.</p>
+<video width="640" height="360" controls="">
+<source src="@FMABHCMa01.mp4">
+</video>
+
+
+</body></html>
